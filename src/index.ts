@@ -36,7 +36,7 @@ let money = 40000;
 let limit = 500000; // 限制值
 
 if (limit >= 500000) {
-    if(monry >= 40000){
+    if(money >= 40000){
         console.log('乾爹好');
     }else{
         console.log('窮鬼');
